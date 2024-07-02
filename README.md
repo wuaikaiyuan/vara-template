@@ -3,6 +3,9 @@
 
 # Create project by template
 ```sh
+# 生成项目模板工具命令
+cargo install cargo-generate
+# 根据模板创建项目
 cargo generate wuaikaiyuan/vara-template
 ```
 
